@@ -1,1 +1,18 @@
-3.0
+Latest: "5.1"
+ClientLatest: "5.1"
+ServerLatest: "5.1"
+MinGameVersion: "141"
+Description:
+'''
+Changes
+- Bug fix.
+
+Warnings
+- It requires Mindustry v141 or above.
+
+'''
+BreakUpdateList: [
+    "5.0"
+    "4.1"
+    "4.0"
+]
